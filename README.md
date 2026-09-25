@@ -1,5 +1,7 @@
 # Event-Management-System
 Event Management System is a Python-based desktop application using Tkinter and Excel to manage event records. It provides login, add, view, search, update, and delete features with Excel data storage.
+
+
 Description :- The Event Management System is a Python-based desktop application developed using Tkinter and Excel. It helps users manage event records efficiently by providing features such as login, adding events, viewing events, searching events, updating event details, and deleting events. The event data is stored and managed using an Excel file.
 
 Features :-
