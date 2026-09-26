@@ -85,10 +85,14 @@ Application Modules :-
 - Future Improvements :-
 
 - User registration and multiple user accounts
-- Event reminders and notifications
+- Event reminders and Notifications
 - Event report generation
 - PDF export
 - Improved user interface
 - Database support using MySQL or SQLite
 
+
+## Project Demo Video
+
+[Watch Event Management System Demo Video](https://drive.google.com/file/d/1TCHT3RjkkJ2CqwBJ4mAl2T-WMfu85tAR/view?usp=drivesdk)
 
